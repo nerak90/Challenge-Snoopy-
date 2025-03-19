@@ -31,4 +31,4 @@ Esta app divertida y sencilla te permite ingresar nombres de participantes y, co
 ¡Y listo! A divertirse.
 
 ## Créditos
-Hecho con cariño y creatividad por una mente brillante que programa desde su celular... y con un profesor virtual que toma café con amor.
+Especial para los amigos, y quien sabe ? para encontrar el amor de tú vida. 
